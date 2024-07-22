@@ -247,7 +247,7 @@ git remote set-url origin git@github.com:smile-II/Whic-is-bigger-9.9-or-9.11.git
 3. 运行以下命令：
 
 ```bash
-git remote set-url origin git@github.com:smile-II/Whic-is-bigger-9.9-or-9.11.git
+git remote set-url origin git@github.com:smile-II/Which-is-bigger-9.9-or-9.11.git
 ```
 
 然后你可以尝试再次推送代码：
