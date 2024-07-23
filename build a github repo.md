@@ -89,7 +89,6 @@ git push -u origin main
    git push -u origin main
    ```
 
-通过这些步骤，你应该能够成功地将本地创建的 Git 仓库推送到 GitHub。如果在执行这些步骤时遇到任何问题，请告诉我，我可以提供进一步的帮助。
 
 ```python
 反引号 在键盘数字1的左边```

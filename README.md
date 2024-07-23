@@ -1,6 +1,7 @@
 # My Repo about how to use GitHub
 
-GitHub 管理代码教程(面向GPT的编程)
+GitHub 教程(面向GPT的编程)
+
 
 ## 文件列表
 
