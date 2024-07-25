@@ -240,6 +240,20 @@ git push origin main
 git remote set-url origin git@github.com:smile-II/Whic-is-bigger-9.9-or-9.11.git
 ```
 
+clone 命令也是一样
+```
+git clone https://github.com/Kaniz92/Forged-GAN-BERT
+Cloning into 'Forged-GAN-BERT'...
+fatal: unable to access 'https://github.com/Kaniz92/Forged-GAN-BERT/': Failed to connect to github.com port 443: Timed out
+```
+
+使用这个命令
+```
+git clone git@github.com:Kaniz92/Forged-GAN-BERT.git
+```
+
+就是换成git@github.com:XXXX/XXXXX-XXXX.git 的形式
+
 这是完整的过程：
 
 1. 打开终端或命令提示符。
